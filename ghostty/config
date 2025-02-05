@@ -1,0 +1,9 @@
+font-family = ""
+font-family = "ZedMono Nerd Font"
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = false
+theme = ChallengerDeep
+window-decoration = false
+background-opacity = 0.8
+
